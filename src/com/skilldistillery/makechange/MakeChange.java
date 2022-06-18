@@ -62,6 +62,7 @@ public class MakeChange {
 					System.out.println("The customer has not paid enough.");
 				}
 		} // register on
+		scanner.close();
 	}
 
 }
